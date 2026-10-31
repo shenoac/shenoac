@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Shenoa
 
-<!--
-**shenoac/shenoac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Product Builder | Technical Project Manager | AI & Nonprofit Technology**
 
-Here are some ideas to get you started:
+- 🚀 I'm passionate about **turning ideas into working software**, from early concepts through to delivery.
+- 👩‍💻 I lead **technical development projects**, bringing engineers together, building momentum, and helping teams do their best work.
+- 🛠️ I enjoy working hands-on across **product development, software engineering, and technical project management**.
+- 🤖 I'm currently building and exploring **AI-powered applications, automation, and developer tools**.
+- 🌱 I'm interested in using **technology to create meaningful impact**, particularly in the nonprofit sector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+
+Languages: Python · Java · TypeScript · JavaScript · SQL
+
+Frameworks & Runtime: React · Next.js · Node.js
+
+Platforms & Tools: GitHub · Supabase · Vercel · Render · Google Apps Script
